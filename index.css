@@ -1,0 +1,11 @@
+h1,h2{
+    color: red;
+}
+h1{
+    text-align: right;
+    color: blueviolet;
+    text-decoration: underline;
+}
+#day{
+    color: red;
+}
